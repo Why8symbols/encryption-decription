@@ -1,5 +1,5 @@
-# encryption-decription
-encryption/decription code
+# encryption-decryption
+encryption/decryption code
 import random
 import string
 
